@@ -1,0 +1,17 @@
+Arrays(list):
+1) Reverse array
+2) Remove duplicates from an array
+3) If array has duplicates return True.
+3) Check if array sum is equal to a certain value
+5) In an array, check if value at a particular index-5 is greater than 100.
+
+Strings:
+1) String Palindrome: https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/
+2) Remove duplicates from a string
+3) Anagram: https://practice.geeksforgeeks.org/problems/anagram/0
+
+Digits:
+1) Reverse a digit : https://www.geeksforgeeks.org/write-a-program-to-reverse-digits-of-a-number/
+2) Number Palindrome: 1) https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/ 2) https://www.geeksforgeeks.org/program-to-check-the-number-is-palindrome-or-not/
+3) LCM and GCD of two numbers
+
