@@ -1,5 +1,6 @@
 Arrays(list):
 1) Reverse array - Write a function in C that accepts an array as an argument and returns a new array with elements reversed.
+    Test case : Input : [0,-1,0,1,2,3,10,100] Output: [100, 10,, 3, 2, 1, 0, -1, 0]
 2) Remove duplicates - Write a function in C that accepts an array as an argument and removes duplicates from the array and returns it.
 3) If array has duplicates return True. - Write a function that returns a boolean True or False if the array has duplicates.
 3) Check if array sum is equal to a certain value
