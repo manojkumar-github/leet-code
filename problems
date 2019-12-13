@@ -1,7 +1,7 @@
 Arrays(list):
-1) Reverse array
-2) Remove duplicates from an array
-3) If array has duplicates return True.
+1) Reverse array - Write a function in C that accepts an array as an argument and returns a new array with elements reversed.
+2) Remove duplicates - Write a function in C that accepts an array as an argument and removes duplicates from the array and returns it.
+3) If array has duplicates return True. - Write a function that returns a boolean True or False if the array has duplicates.
 3) Check if array sum is equal to a certain value
 5) In an array, check if value at a particular index-5 is greater than 100.
 6) Sort by parity: https://leetcode.com/problems/sort-array-by-parity/
